@@ -1,0 +1,27 @@
+_repo: Personal-Recollections-of-Birmingham-and-Birmingham-Men_18821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Eliezer
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '8273'
+    url: http://www.gutenberg.org/2009/agents/8273
+description: Cover -- Contents.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birmingham (England)'
+- !lcc 'DA'
+title: Personal Recollections of Birmingham and Birmingham Men
+url: http://www.gutenberg.org/ebooks/18821
